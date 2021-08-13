@@ -7,7 +7,7 @@ import os
 
 from shutil import copyfile
 from pynput.keyboard import Key
-from myScrapper import *
+from myScraper import *
 
 
 
