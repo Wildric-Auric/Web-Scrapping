@@ -42,3 +42,4 @@ of the original source code.
 To get the current source code, you can get get it by inspecting the page, showing it as one string is only possible if you master JavaScript.
 Fortunately, I found a google extension made by [Thomas Greiner](https://github.com/ThomasGreiner) which is [view-current-source](https://chrome.google.com/webstore/detail/view-current-source/bloebkffnmchginelkmdcemamcdeamei)
 it allows you to see the current source code. However there is no shortcut for it, so I just controlled the mouse using Pynput to access it:
+![Extension](http://https://github.com/Wildric-Auric/Web-Scrapping/blob/Wildric-Auric-patch-1/Capture%20d%E2%80%99%C3%A9cran%202021-08-13%20153959.png)
