@@ -1,4 +1,4 @@
-import myScrapper as scr
+import myScraper as scr
 import os
 from pynput.keyboard import Key, Controller
 from time import sleep
